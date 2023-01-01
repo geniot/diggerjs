@@ -1,0 +1,3 @@
+
+google-closure-compiler --js=*.js --js_output_file=../e.js --language_out=ES6 --isolation_mode=IIFE
+

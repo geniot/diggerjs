@@ -1,0 +1,3 @@
+
+cat Bags.js Drawing.js Input.js Main.js Monster.js Pc.js Scores.js Sound.js Sprite.js Digger.js alpha.js cgagrafx.js > ../e.js
+
